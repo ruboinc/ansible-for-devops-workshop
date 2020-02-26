@@ -16,4 +16,7 @@
 52.53.126.60
 
 [NAS]
-https://developers.google.com/time/
+server time1.google.com iburst
+server time2.google.com iburst
+server time3.google.com iburst
+server time4.google.com iburst
